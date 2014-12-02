@@ -9,10 +9,12 @@ Sebuah software untuk membantu kita menunjukan, mencatat, & menyebarkan cinta te
 
 #### Product Backlog (Fitur Selanjutnya)
 
-1. Search people
-2. Page for loves between two people
-3. Newsfeed of recent loves from Twitter's friends
-4. ....? (kirimkan idemu ke @Testimoo)
+1. Search people -- [Done]
+2. Pivot to platform type .. [Working on it]
+3. Apprecia : page for loves between two people  -- [Working on it] 
+4. Apprecia : moving the old testimony code & database to apprecia 
+4. Newsfeed of recent loves from Twitter's friends
+5. ....? (send your ideas to @Testimoo)
 
 #### Sepertinya Mirip Sebuah Judul Buku
 
